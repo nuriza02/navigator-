@@ -25,10 +25,10 @@ exports.config = {
     ],
     // Patterns to exclude.
     exclude: [
-       './test/specs/clients.spec.js',
         './test/specs/example.e2e.js',
         './test/specs/test_params.json',
         './test/specs/package-lock.json',
+        './test/specs/login.specs.js',  
         './test/specs/package.json'
     ],
     //

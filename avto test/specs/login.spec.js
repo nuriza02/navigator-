@@ -1,5 +1,5 @@
 const loginPage = require('../pageobjects/Login.po.js');
-const params = require('./../test_params.json')
+const params = require('../test_params.json')
 
 describe('login test suit', function(){
     it('schould login as admin', function(){
